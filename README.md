@@ -23,4 +23,4 @@ Wordpress:
 testowane na wersji 4.0.1
 
 `wp-includes/class-phpmailer.php`:
-`public $Sender = '"Fundacje ePaństwo<mailer@epf.org.pl>"';`
+`public $Sender = '"Fundacje ePaństwo"<mailer@epf.org.pl>';`
