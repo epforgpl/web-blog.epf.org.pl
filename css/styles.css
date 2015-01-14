@@ -4215,6 +4215,7 @@ body a:hover {
 }
 
 .footer-nav > li > .sub-menu {
+    margin-top: 7px;
     padding-left: 10px;
 }
 
