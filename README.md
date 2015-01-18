@@ -24,3 +24,6 @@ testowane na wersji 4.0.1
 
 `wp-includes/class-phpmailer.php`:
 `public $Sender = '"Fundacje ePaństwo"<mailer@epf.org.pl>';`
+
+Edycja:
+- ustawić flagę `inline_styles => false` w inicjalizacji edytora" tinyMCE.init (wp-includes/class-wp-editor.php)
